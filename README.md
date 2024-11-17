@@ -104,7 +104,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
      2. **Collaborate if Needed**: If basic troubleshooting doesn’t resolve the issue, involve a Level 2 technician or check with the network team.
      3. **Test the Fix**: Once the issue is resolved, print a test document to confirm everything is working.
 
-   **Example**:  
+ **Example**:   
    You discover that the user had selected the wrong printer from the list. After guiding them to choose the correct one, the issue is resolved.
 
 ---
@@ -113,12 +113,27 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
    - **Objective**: Confirm the fix and close the ticket.
    - **Steps**:
      1. **Confirm with the User**: Ask the user to print another document and confirm that the issue is resolved.
-     2. **Document the Solution**: Update the ticket with the steps taken to resolve the issue.
-     3. **Close the Ticket**: Mark the ticket as resolved and notify the user.
-     4. **Follow-Up (Optional)**: Check back with the user later to ensure the issue hasn’t recurred.
 
-   **Example**:  
-   The user confirms they can now print their document. You update the ticket, mark it as resolved, and close it.
+![Screenshot 2024-11-17 165720](https://github.com/user-attachments/assets/f79951cd-5fc7-4249-88bf-fbfd03716d0d)
+
+        
+ 3. **Document the Solution**: Update the ticket with the steps taken to resolve the issue.
+
+
+ 5. **Close the Ticket**: Mark the ticket as resolved and notify the user.
+
+   
+![Screenshot 2024-11-17 172238](https://github.com/user-attachments/assets/bbd30dd3-10e5-4e6e-b113-7bf0f855ecf9)
+
+
+   ![Screenshot 2024-11-17 172336](https://github.com/user-attachments/assets/f3061e84-1bcc-472e-8e83-60f98fabc16b)
+
+
+    
+    
+ 7. **Follow-Up (Optional)**: Check back with the user later to ensure the issue hasn’t recurred.
+
+  
 
 ---
 
