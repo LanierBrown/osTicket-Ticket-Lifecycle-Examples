@@ -60,6 +60,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
    ![Screenshot 2024-11-17 160028](https://github.com/user-attachments/assets/257d795d-6886-4721-b418-f2304e9fd5c1)
 
 
+![Screenshot 2024-11-17 160503](https://github.com/user-attachments/assets/98702f74-510b-4a3c-8711-43b9b7f82206)
+
   
 
 ---
@@ -68,12 +70,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
    - **Objective**: Assign the ticket to the appropriate technician or team and keep the user informed.
    - **Steps**:
      1. **Assign the Ticket**: Assign the ticket to yourself or a team member who handles printer issues.
-     2. **Initial Communication**: Notify the user that the issue is being worked on and provide an estimated resolution time.
-     3. **Escalate if Necessary**: If the issue requires more expertise, escalate it to a Level 2 or specialist team.
-     4. **Provide Updates**: Inform the user if the resolution is delayed or additional steps are needed.
+        
+![Screenshot 2024-11-17 161417](https://github.com/user-attachments/assets/e308ae6a-5068-4aa6-a1ef-d95e2e955333)
 
-   **Example**:  
-   You take ownership of the ticket and let the user know that you’re looking into their printer issue.
+
+![Screenshot 2024-11-17 161601](https://github.com/user-attachments/assets/85ca43df-40c7-482b-9f0f-aaa075c644cb)
+
+        
+   3. **Initial Communication**: Notify the user that the issue is being worked on and provide an estimated resolution time.
+      
+![Screenshot 2024-11-17 162346](https://github.com/user-attachments/assets/76f76e90-d08a-4cd4-803a-cad23d15b67d)
+
+      
+ 4. **Escalate if Necessary**: If the issue requires more expertise, escalate it to a Level 2 or specialist team.
+    
+  6. **Provide Updates**: Inform the user if the resolution is delayed or additional steps are needed.
+     
+
+![Screenshot 2024-11-17 164414](https://github.com/user-attachments/assets/5c314aea-09e9-43f8-a2ba-2ce9a3f75f50)
+
+   
 
 ---
 
@@ -83,6 +99,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
      1. **Troubleshoot the Issue**: 
         - Check if the printer is online.
         - Verify that the user is selecting the correct printer.
+        - Check and see if the printer ink or paper needs to be replaced
         - Restart the printer and try printing a test page.
      2. **Collaborate if Needed**: If basic troubleshooting doesn’t resolve the issue, involve a Level 2 technician or check with the network team.
      3. **Test the Fix**: Once the issue is resolved, print a test document to confirm everything is working.
