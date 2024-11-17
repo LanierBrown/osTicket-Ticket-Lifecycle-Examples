@@ -27,35 +27,86 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+---
+
 ## 1️⃣ **Intake**
    - **Objective**: Capture and log the incoming issue or request.
    - **Steps**:
-     1. **User Reports Issue**: The user submits a ticket via email, phone, or a support portal.
-     2. **Ticket Creation**: Create a new ticket in the ticketing system (e.g., ServiceNow, Jira, Zendesk).
-     3. **Gather Information**: Collect necessary details such as:
-        - User's contact info
-        - Issue description
-        - Environment and error messages
-        - Severity and priority
-     4. **Categorize the Issue**: Assign a category (e.g., software, hardware, network) and determine severity (e.g., critical, high, medium, low).
-     5. **Acknowledge Receipt**: Send an acknowledgment to the user with a ticket number and an estimated response time.
-   
+     1. **User Reports Issue**: The user contacts the Help Desk via phone, email, or chat.
+     2. **Ticket Creation**: Create a new ticket in the ticketing system (e.g., ServiceNow, Freshdesk).
+    ![Screenshot 2024-11-17 153133](https://github.com/user-attachments/assets/33349195-2600-4941-9d0b-0378cecb6060)
+
+     4. **Gather Information**: Ask the user for:
+        - Their name and contact info
+          
+          ![Screenshot 2024-11-17 154404](https://github.com/user-attachments/assets/0ac0e3ef-bf65-409f-93d9-0a008a5a0a64)
+
+        - A brief description of the issue
+        - Whether they’ve tried restarting their device
+
+          
+          ![Screenshot 2024-11-17 155515](https://github.com/user-attachments/assets/7e8814dd-380a-423c-8ed6-25b8df9db5e3)
+
+         
+
+     5. **Categorize the Issue**: Assign a category (e.g., software, hardware, printer) and determine urgency.
+        
+![Screenshot 2024-11-17 155543](https://github.com/user-attachments/assets/25a9fb99-889f-41b7-bfe3-c574598eb63a)
+
+    
+     7. **Acknowledge Receipt**: Provide the user with a ticket number and let them know the next steps.
+
+  
+
+---
+
+## 2️⃣ **Assignment and Communication**
+   - **Objective**: Assign the ticket to the appropriate technician or team and keep the user informed.
+   - **Steps**:
+     1. **Assign the Ticket**: Assign the ticket to yourself or a team member who handles printer issues.
+     2. **Initial Communication**: Notify the user that the issue is being worked on and provide an estimated resolution time.
+     3. **Escalate if Necessary**: If the issue requires more expertise, escalate it to a Level 2 or specialist team.
+     4. **Provide Updates**: Inform the user if the resolution is delayed or additional steps are needed.
+
    **Example**:  
-   The user reports that they cannot access a shared network drive. The help desk agent logs the issue, categorizes it as a **network** issue, and creates a ticket.
+   You take ownership of the ticket and let the user know that you’re looking into their printer issue.
 
+---
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+## 3️⃣ **Working the Issue**
+   - **Objective**: Resolve the issue by following basic troubleshooting steps.
+   - **Steps**:
+     1. **Troubleshoot the Issue**: 
+        - Check if the printer is online.
+        - Verify that the user is selecting the correct printer.
+        - Restart the printer and try printing a test page.
+     2. **Collaborate if Needed**: If basic troubleshooting doesn’t resolve the issue, involve a Level 2 technician or check with the network team.
+     3. **Test the Fix**: Once the issue is resolved, print a test document to confirm everything is working.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+   **Example**:  
+   You discover that the user had selected the wrong printer from the list. After guiding them to choose the correct one, the issue is resolved.
+
+---
+
+## 4️⃣ **Resolution**
+   - **Objective**: Confirm the fix and close the ticket.
+   - **Steps**:
+     1. **Confirm with the User**: Ask the user to print another document and confirm that the issue is resolved.
+     2. **Document the Solution**: Update the ticket with the steps taken to resolve the issue.
+     3. **Close the Ticket**: Mark the ticket as resolved and notify the user.
+     4. **Follow-Up (Optional)**: Check back with the user later to ensure the issue hasn’t recurred.
+
+   **Example**:  
+   The user confirms they can now print their document. You update the ticket, mark it as resolved, and close it.
+
+---
+
+## Conclusion
+
+These steps provide a simple and structured approach to resolving common IT issues, ensuring users receive prompt and effective support.
+
+---
+
+Following these structured steps ensures an efficient and effective resolution process for IT support tickets, keeping both users and technicians informed throughout the lifecycle of the ticket. Each phase is important to maintaining high-quality support and ensuring user satisfaction.
+
+---
