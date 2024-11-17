@@ -54,7 +54,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![Screenshot 2024-11-17 155543](https://github.com/user-attachments/assets/25a9fb99-889f-41b7-bfe3-c574598eb63a)
 
     
-     7. **Acknowledge Receipt**: Provide the user with a ticket number and let them know the next steps.
+ vii. **Acknowledge Receipt**: Provide the user with a ticket number and let them know the next steps.
+
+    
+   ![Screenshot 2024-11-17 160028](https://github.com/user-attachments/assets/257d795d-6886-4721-b418-f2304e9fd5c1)
+
 
   
 
