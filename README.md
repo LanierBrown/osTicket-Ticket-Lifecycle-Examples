@@ -27,13 +27,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+## 1️⃣ **Intake**
+   - **Objective**: Capture and log the incoming issue or request.
+   - **Steps**:
+     1. **User Reports Issue**: The user submits a ticket via email, phone, or a support portal.
+     2. **Ticket Creation**: Create a new ticket in the ticketing system (e.g., ServiceNow, Jira, Zendesk).
+     3. **Gather Information**: Collect necessary details such as:
+        - User's contact info
+        - Issue description
+        - Environment and error messages
+        - Severity and priority
+     4. **Categorize the Issue**: Assign a category (e.g., software, hardware, network) and determine severity (e.g., critical, high, medium, low).
+     5. **Acknowledge Receipt**: Send an acknowledgment to the user with a ticket number and an estimated response time.
+   
+   **Example**:  
+   The user reports that they cannot access a shared network drive. The help desk agent logs the issue, categorizes it as a **network** issue, and creates a ticket.
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
