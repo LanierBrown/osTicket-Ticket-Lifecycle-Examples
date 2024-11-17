@@ -49,7 +49,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
          
 
-     5. **Categorize the Issue**: Assign a category (e.g., software, hardware, printer) and determine urgency.
+5. **Categorize the Issue**: Assign a category (e.g., software, hardware, printer) and determine urgency.
         
 ![Screenshot 2024-11-17 155543](https://github.com/user-attachments/assets/25a9fb99-889f-41b7-bfe3-c574598eb63a)
 
